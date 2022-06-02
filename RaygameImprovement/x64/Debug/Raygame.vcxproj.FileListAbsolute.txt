@@ -1,0 +1,6 @@
+C:\CodingProjects\C++\Raygame\x64\Debug\Raygame.vcxproj.CopyComplete
+C:\CodingProjects\C++\Raygame\x64\Debug\Raygame.exe
+C:\CodingProjects\C++\Raygame\x64\Debug\raylib.dll
+C:\CodingProjects\C++\RaygameImprovement\x64\Debug\Raygame.vcxproj.CopyComplete
+C:\CodingProjects\C++\RaygameImprovement\x64\Debug\Raygame.exe
+C:\CodingProjects\C++\RaygameImprovement\x64\Debug\raylib.dll
