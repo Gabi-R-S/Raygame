@@ -1,0 +1,13 @@
+﻿  Raygame.cpp
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(37,26): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(37,32): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(203,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(293,25): warning C4804: '-': unsafe use of type 'bool' in operation
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(298,28): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(371,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(371,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(376,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(376,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(378,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\CodingProjects\C++\RaygameImprovement\Raygame.cpp(378,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Raygame.vcxproj -> C:\CodingProjects\C++\RaygameImprovement\x64\Debug\Raygame.exe
